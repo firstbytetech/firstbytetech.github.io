@@ -1,6 +1,6 @@
 # FirstByte Technologies Site
 
-Created with (`jekyllrb`)[https://jekyllrb.com/].
+Created with [`jekyllrb`](https://jekyllrb.com/).
 
 > Using a customized version of the Jekyll **Time Machine** theme
 
@@ -14,4 +14,4 @@ Theme customizations will be logged here, in ~~no particular order~~ order of th
 
 --------------------
 
-&copy; 2017, (FirstByte Technologies)[http://firstbyte.tech "Our site, mafe with Jekyll"]
+&copy; 2017, [FirstByte Technologies](http://www.firstbyte.tech "Our site, made with Jekyll")

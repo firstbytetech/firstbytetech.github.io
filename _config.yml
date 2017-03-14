@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: FirstByte Technologies
 email: support@firstbyte.tech
-description: "A technical consultancy based in New England with a Global reach."
+description: "We Dream in Code."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.firstbyte.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _firstbyte_
